@@ -1,4 +1,6 @@
 #Vulnerable Struts app
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzorianix%2Fvulnerable-struts-app.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzorianix%2Fvulnerable-struts-app?ref=badge_shield)
+
 ## used to test lgtm.com
 
 README.txt - Rest Showcase Webapp
@@ -16,3 +18,7 @@ in an environment where the default locale is set to English. This means that
 the default messages defined in package.properties are in English. If the default
 locale for your server is different, then rename package.properties to package_en.properties
 and create a new package.properties with proper values for your default locale.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fzorianix%2Fvulnerable-struts-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fzorianix%2Fvulnerable-struts-app?ref=badge_large)
